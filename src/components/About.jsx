@@ -12,7 +12,16 @@ const About = () => {
     { name: 'UI/UX Design', icon: HiSparkles },
     { name: 'Problem Solving', icon: HiLightningBolt },
     { name: 'TailwindCSS', icon: HiCode },
-    { name: 'Cyber Security', icon: HiLightningBolt }
+    { name: 'Cyber Security', icon: HiLightningBolt },
+    { name: 'Postman', icon: HiCode },
+    { name: 'Git', icon: HiCode },
+    { name: 'GitHub', icon: HiCode },
+    { name: 'GitLab', icon: HiCode },
+    { name: 'PostgreSQL', icon: HiCode },
+    { name: 'MySQL', icon: HiCode },
+    { name: 'MongoDB', icon: HiCode },
+    { name: 'JavaScript', icon: HiCode },
+    { name: 'Java', icon: HiCode },
   ];
 
   return (
